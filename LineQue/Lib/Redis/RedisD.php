@@ -6,7 +6,7 @@ use Redis;
 
 /**
  * Redis基本操作类
- * 
+ * 需要开启Redis扩展
  * @author Linko
  * @email 18716463@qq.com
  * @link https://github.com/kk1987n/LineQue.git
