@@ -10,6 +10,7 @@ namespace LineQue\Config;
  * @version 1.0.0
  */
 class Conf {
+    public static $VERSION = '1.0.0';
 
     public static function getConf() {
         return array(
