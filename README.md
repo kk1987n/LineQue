@@ -6,4 +6,4 @@ redis>=2.2
 pnctl扩展
 
 # 使用方法
-https://github.com/kk1987n/LineQue.git/wiki
+https://github.com/kk1987n/LineQue/wiki
