@@ -3,7 +3,7 @@
 namespace LineQue\Config;
 
 /**
- * 
+ * 数据库配置信息
  * @author Linko
  * @email 18716463@qq.com
  * @link https://github.com/kk1987n/LineQue.git
