@@ -17,5 +17,5 @@ if (!class_exists('LineQue\Lib\Autoload', false)) {
 }
 LineQue\Lib\Autoload::start();
 $DbInstance = new LineQue\Lib\dbJobInstance();
-$jobid = $DbInstance->addJob('default', '\App\UserAppF', array('lineDoTime' => time()));
+$jobid = $DbInstance->addJob('default', '\App\UserApp', array('lineDoTime' => time()));
 print_r($jobid . PHP_EOL);
