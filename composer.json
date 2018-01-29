@@ -1,8 +1,8 @@
 {
-    "name": "kknv/linkque",
+    "name": "kk1987n/LineQue",
     "type": "library",
-    "description": "Redis backed library for creating background jobs and processing them later. for PHP.",
-    "keywords": ["job", "background", "redis", "resque", "queue"],
+    "description": "Redis backed library for creating background jobs and processing them later,simple,easy for PHP.",
+    "keywords": ["job", "background", "redis", "resque", "queue", "worker", "php"],
     "homepage": "https://github.com/kk1987n/LineQue.git",
     "license": "MIT",
     "authors": [
