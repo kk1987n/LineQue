@@ -107,9 +107,6 @@ class Master {
         if ($this->masterPid) {
             $this->procLine->initDisplay('MasterPid:' . $this->masterPid);
         }
-        if ($this->slavePid) {
-            $this->procLine->initDisplay("SlaverPid:" . $this->slavePid);
-        }
         $this->procLine->initDisplay("─运行参数──────────────────────────────────────────────────────────");
         $questr = array();
         foreach ($this->Que as &$queue) {
