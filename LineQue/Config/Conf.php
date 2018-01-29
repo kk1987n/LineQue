@@ -21,7 +21,7 @@ class Conf {
 
     private static function getRedis() {
         return array(
-            'SERVER' => '127.0.0.1',
+            'HOST' => '127.0.0.1',
             'PORT' => 6379,
             'PWD' => '',
             'DBNAME' => '0',
